@@ -1,5 +1,5 @@
 {
-    "name":        "arcanedev/support",
+    "name":        "cryptothree/log-viewer-support",
     "description": "ARCANEDEV Support Helpers",
     "keywords":    ["arcanedev", "arcanesoft", "support", "laravel"],
     "homepage":    "https://github.com/ARCANEDEV/Support",
